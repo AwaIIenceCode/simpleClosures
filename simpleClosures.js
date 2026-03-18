@@ -1,6 +1,3 @@
-//Теперь вопрос к тебе — попробуй написать функцию createCounter которая принимает начальное число и возвращает объект с тремя методами: 
-// increment, decrement, и getCount. Без подсказок, только то что объяснил! 
-
 // closures function for create user counter
 function createCounter(userCounter)
 {   
